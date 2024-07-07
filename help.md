@@ -1,2 +1,2 @@
 I want to write this file
-This is mearge practice
+This is mearge pratcee
