@@ -4,3 +4,4 @@ This is mearge pratcee
 This is mearge hello
 
 git statsh
+git origin
